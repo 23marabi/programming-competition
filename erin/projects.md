@@ -4,7 +4,7 @@ Python: [discord-bot](https://github.com/23marabi/discord-bot) *(currently broke
 
 C/C++: [fan.c](https://gist.github.com/23marabi/c0f637c9c972c02693d9b201ff16959c), [ncurses-game](https://gist.github.com/23marabi/e25f4628efa134616f81d1585fea63a4) *(unfinished)*
 
-Ruby:
+Ruby: [tryout.rb](https://gist.github.com/23marabi/0ff947cc014d93857df71084eeea72ee) *(work in progress)*
 
 Go:
 
