@@ -1,6 +1,6 @@
 Rust:
 
-Python: 
+Python: [quizlet-scraper](https://github.com/ashton0223/quizlet-scraper)
 
 C/C++:
 
@@ -10,7 +10,7 @@ Go:
 
 Lua:
 
-Javascript:  [discord-reroute](https://github.com/ashton0223/discord-reroute)
+Javascript:  Some website eventually
 
 Assembly:
 
