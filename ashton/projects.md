@@ -6,11 +6,11 @@ C/C++:
 
 Ruby:
 
-Go: [discord-tcp-proxybot server](https://github.com/ashton0223/discord-tcp-proxybot/tree/master/server)
+Go: [discord-tcp-proxybot server](https://github.com/ashton0223/discord-tcp-proxybot/tree/master/server) *unfinished*
 
 Lua:
 
-Javascript: [discord-tcp-proxybot bot](https://github.com/ashton0223/discord-tcp-proxybot/tree/master/bot)
+Javascript: [discord-tcp-proxybot bot](https://github.com/ashton0223/discord-tcp-proxybot/tree/master/bot) *unfinished*
 
 Assembly:
 
