@@ -1,4 +1,4 @@
-Rust: [physics-engine](github.com/23marabi/physics-engine) *(unfinished)*, [rust-chess](https://github.com/23marabi/rust-chess/) *(unfinished)*
+Rust: [physics-engine](https://github.com/23marabi/physics-engine) *(unfinished)*, [rust-chess](https://github.com/23marabi/rust-chess/) *(unfinished)*
 
 Python: [discord-bot](https://github.com/23marabi/discord-bot), [lang.py](https://gist.github.com/23marabi/38da63d941dcd4e776c1d73d06a9485f)
 
